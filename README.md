@@ -1,0 +1,4 @@
+- Hi, I’m @BlakeGeorgii
+- I’m interested in a bit of everything
+- I’m currently learning Full Stack Development
+- How to reach me blakegeorgii@gmail.com
